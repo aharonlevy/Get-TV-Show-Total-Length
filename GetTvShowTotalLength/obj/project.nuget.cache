@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxQHMTfjpkhuXGuOMfIX4XsMq4J/81y/5QilZX/Rbe/3k1m8+doGgfXYP/lKYM1AJL8/W3s2El0oxpHMKxtwZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mraha\\Desktop\\home tsets\\hibernating rhinos\\GetTvShowTotalLength\\GetTvShowTotalLength.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mraha\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\mraha\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

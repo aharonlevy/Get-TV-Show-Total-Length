@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GetTvShowTotalLength": {
+      "commandName": "Project",
+      "commandLineArgs": "\"breaking bad\""
+    }
+  }
+}

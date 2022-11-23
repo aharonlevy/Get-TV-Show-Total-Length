@@ -1,8 +1,8 @@
 Project TV Time
 
-	Find  at GitHub: <add GitHub project link>
+	Find  at GitHub: https://github.com/aharonlevy/Get-TV-Show-Total-Length
 	The project was written by Aharon levy.
-	find me at my LinkedIn: <add Linkedin link>
+	find me at my LinkedIn: https://www.linkedin.com/in/aharon-levy/
 	The project makes use of the TVmaze API
 	
 	With Project TV Time you can find the most time-consuming and,

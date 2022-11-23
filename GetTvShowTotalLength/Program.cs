@@ -43,7 +43,6 @@ namespace GetTvShowTotalLength
                 }
                 result = client.GetAsync(searchShows).Result;
             }
-            Thread.Sleep(2000);
             return result.Content.ReadAsStringAsync().Result;
         }
 
